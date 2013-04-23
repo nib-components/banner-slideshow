@@ -1,0 +1,12 @@
+{
+  "name": "banner-slideshow",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "nib-components/slideshow": "*",
+    "nib-components/tip": "*",
+    "nib-components/analytics": "0.0.2",
+    "component/event": "*"
+  }
+}
