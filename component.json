@@ -4,7 +4,7 @@
     "index.js"
   ],
   "dependencies": {
-    "nib-components/slideshow": "*",
+    "nib-components/slideshow": "0.1.0",
     "nib-components/tip": "*",
     "nib-components/analytics": "0.0.2",
     "component/event": "*"
