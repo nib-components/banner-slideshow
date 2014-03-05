@@ -8,7 +8,7 @@ module.exports = function(options) {
   var slides = SlideShow.create(options);
 
   slides.each(function(slide, i){
-    var indicator = slides.indicators[i];
+    var indicator = slides.getIndicator(i);
 
     // Create a tooltip for this indicator
     var tip = new Tip({

@@ -16,3 +16,11 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+
+
+# project settings
+.idea
+
+# project files
+build
+component
