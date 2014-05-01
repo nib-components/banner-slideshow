@@ -6,7 +6,7 @@
   "dependencies": {
     "nib-components/slideshow": "ie8rewrite",
     "nib-components/tip": "*",
-    "nib-components/analytics": "0.0.2",
+    "nib-components/analytics": "0.1.1",
     "component/event": "*",
     "component/emitter": "*"
   },
